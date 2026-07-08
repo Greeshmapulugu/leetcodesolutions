@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
