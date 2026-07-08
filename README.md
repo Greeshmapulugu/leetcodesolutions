@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
