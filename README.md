@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0078-subsets) |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
