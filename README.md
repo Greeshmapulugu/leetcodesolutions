@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search Tree
 |  |
@@ -242,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0572-subtree-of-another-tree) |
+## Math
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
