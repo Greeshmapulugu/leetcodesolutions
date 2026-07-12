@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,12 +148,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0854-k-similar-strings) |
 ## Linked List
 |  |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
