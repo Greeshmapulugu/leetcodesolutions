@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Backtracking
 |  |
 | ------- |
