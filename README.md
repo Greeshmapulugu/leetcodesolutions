@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
