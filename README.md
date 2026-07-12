@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 ## Stack
 |  |
