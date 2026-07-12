@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0037-sudoku-solver) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
