@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0968-binary-tree-cameras](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0968-binary-tree-cameras) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0968-binary-tree-cameras](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
