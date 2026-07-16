@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0463-island-perimeter) |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0968-binary-tree-cameras) |
 ## Hash Table
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
 ## Stack
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0542-01-matrix) |
 | [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0815-bus-routes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0815-bus-routes) |
