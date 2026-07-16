@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
+| [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0463-island-perimeter) |
+| [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0968-binary-tree-cameras](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0854-k-similar-strings) |
 | [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 <!---LeetCode Topics End-->
