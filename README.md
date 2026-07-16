@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
+| [0815-bus-routes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0815-bus-routes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0815-bus-routes) |
 | [0854-k-similar-strings](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0854-k-similar-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0815-bus-routes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0815-bus-routes) |
 | [0854-k-similar-strings](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0854-k-similar-strings) |
 | [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
