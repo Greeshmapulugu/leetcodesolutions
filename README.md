@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0854-k-similar-strings) |
+| [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Linked List
 |  |
