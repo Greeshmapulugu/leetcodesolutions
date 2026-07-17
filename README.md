@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0994-rotting-oranges) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -306,12 +307,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0133-clone-graph) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Simulation
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0749-contain-virus) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
