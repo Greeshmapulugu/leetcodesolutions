@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0854-k-similar-strings) |
+| [1859-sorting-the-sentence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/0206-reverse-linked-list) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Greeshmapulugu/leetcodesolutions/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
